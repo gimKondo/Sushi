@@ -4,3 +4,11 @@
 #ignore backup file
 *~
 *.bak
+
+# ignore local setting
+*.suo
+
+# ignore generated file
+bin/
+obj/
+TestResults/

@@ -21,8 +21,10 @@
 - 客が会計する
 
 ［用語の整理］
-皿:Dish
-客:Customer
+- 皿:Dish
+- 客:Customer
+- 会計サービス:AccountService
+- 価格表:PriceTable
 
 
 
